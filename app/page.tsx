@@ -1,3 +1,3 @@
 export default function HomePage() {
-    return <p className="">Hello World</p>;
+    return <p>Dashboard</p>;
 }
